@@ -106,12 +106,11 @@
 					"fontsize" : 20.0,
 					"frgb" : 0.0,
 					"id" : "obj-66",
-					"linecount" : 2,
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 807.5, 9.0, 243.0, 51.0 ],
-					"text" : "SCOTT REYNOLDS\nSAMPLE BOARD ~ 1600"
+					"patching_rect" : [ 807.5, 9.0, 243.0, 29.0 ],
+					"text" : "SAMPLE BOARD ~ 1600"
 				}
 
 			}
@@ -2355,23 +2354,23 @@
 			}
  ],
 		"parameters" : 		{
-			"obj-18" : [ "live.gain~[6]", "live.gain~", 0 ],
-			"obj-14" : [ "live.gain~[5]", "live.gain~", 0 ],
-			"obj-53" : [ "live.gain~[16]", "live.gain~", 0 ],
-			"obj-47" : [ "live.gain~[13]", "live.gain~", 0 ],
-			"obj-10" : [ "live.gain~[4]", "live.gain~", 0 ],
 			"obj-44" : [ "live.gain~[12]", "live.gain~", 0 ],
-			"obj-49" : [ "live.gain~[14]", "live.gain~", 0 ],
-			"obj-6" : [ "live.gain~[3]", "live.gain~", 0 ],
-			"obj-38" : [ "live.gain~[11]", "live.gain~", 0 ],
-			"obj-51" : [ "live.gain~[15]", "live.gain~", 0 ],
-			"obj-26" : [ "live.gain~[8]", "live.gain~", 0 ],
-			"obj-34" : [ "live.gain~[10]", "live.gain~", 0 ],
-			"obj-63" : [ "live.gain~[17]", "live.gain~", 0 ],
-			"obj-99" : [ "live.gain~[1]", "live.gain~", 0 ],
 			"obj-22" : [ "live.gain~[7]", "live.gain~", 0 ],
 			"obj-30" : [ "live.gain~[9]", "live.gain~", 0 ],
-			"obj-2" : [ "live.gain~[2]", "live.gain~", 0 ]
+			"obj-2" : [ "live.gain~[2]", "live.gain~", 0 ],
+			"obj-47" : [ "live.gain~[13]", "live.gain~", 0 ],
+			"obj-26" : [ "live.gain~[8]", "live.gain~", 0 ],
+			"obj-34" : [ "live.gain~[10]", "live.gain~", 0 ],
+			"obj-49" : [ "live.gain~[14]", "live.gain~", 0 ],
+			"obj-51" : [ "live.gain~[15]", "live.gain~", 0 ],
+			"obj-6" : [ "live.gain~[3]", "live.gain~", 0 ],
+			"obj-99" : [ "live.gain~[1]", "live.gain~", 0 ],
+			"obj-38" : [ "live.gain~[11]", "live.gain~", 0 ],
+			"obj-14" : [ "live.gain~[5]", "live.gain~", 0 ],
+			"obj-53" : [ "live.gain~[16]", "live.gain~", 0 ],
+			"obj-10" : [ "live.gain~[4]", "live.gain~", 0 ],
+			"obj-63" : [ "live.gain~[17]", "live.gain~", 0 ],
+			"obj-18" : [ "live.gain~[6]", "live.gain~", 0 ]
 		}
 ,
 		"dependency_cache" : [  ]

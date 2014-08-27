@@ -523,7 +523,7 @@
 		</dict>
 	</array>
 	<key>CFBundleExecutable</key>
-	<string>scott-reynolds-sample-board</string>
+	<string>sample-board</string>
 	<key>CFBundleGetInfoString</key>
 	<string>6.1.2, Copyright 2012 Cycling '74</string>
 	<key>CFBundleIconFile</key>
